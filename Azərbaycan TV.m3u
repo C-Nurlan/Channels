@@ -27,8 +27,6 @@ https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Naxçıvan Tv" tvg-name="Naxçıvan Tv" group-title="Digər",Naxçıvan TV
 https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Biznes Tv" tvg-name="Biznes Tv" group-title="Digər",Biznes TV
-https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="El Tv" tvg-name="El Tv" group-title="Digər",EL TV
 https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ARB Günəş" tvg-name="ARB Günəş" group-title="Uşaq",ARB Günəş
