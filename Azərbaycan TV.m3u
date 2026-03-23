@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AZ TV" tvg-name="AZ TV" group-title="Ümumi",AZ TV
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Ictimai TV" tvg-name="Ictimai TV" group-title="Ümumi",Ictimai TV
+https://str.yodacdn.net/ictimaitele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Xezer TV" tvg-name="Xezer TV" group-title="Ümumi",Xezer TV
+https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Azad Azerbaycan" tvg-name="Azad Azerbaycan" group-title="Ümumi",ATV
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Space TV" tvg-name="Space TV" group-title="Ümumi",Space TV
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ARB" tvg-name="ARB" group-title="Ümumi",ARB
+https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ARB 24" tvg-name="ARB 24" group-title="Xəbər",ARB 24
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="Xəbər",Baku TV
+https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Real Tv" tvg-name="Real Tv" group-title="Xəbər",Real TV
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Apa TV" tvg-name="APA TV" group-title="Xəbər",APA TV
+https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Idman Tv" tvg-name="Idman Tv" group-title="Idman",Idman TV
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Mədəniyyət Tv" tvg-name="Mədəniyyət Tv" group-title="Digər",Mədəniyyət TV
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Qafqaz Tv" tvg-name="Qafqaz Tv" group-title="Ümumi",Qafqaz TV
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Naxçıvan Tv" tvg-name="Naxçıvan Tv" group-title="Digər",Naxçıvan TV
+https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Biznes Tv" tvg-name="Biznes Tv" group-title="Digər",Biznes TV
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="El Tv" tvg-name="El Tv" group-title="Digər",EL TV
+https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ARB Günəş" tvg-name="ARB Günəş" group-title="Uşaq",ARB Günəş
+https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MTV Az" tvg-name="MTV Az" group-title="Digər",MTV Az
+https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TMB AZ" tvg-name="TMB AZ" group-title="Digər",TMB AZ
+https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8
