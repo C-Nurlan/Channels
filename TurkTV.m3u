@@ -5,6 +5,14 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" group-title="Genel", Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" group-title="Genel", Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="Genel", Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="TLC TV" tvg-name="TLC TV"group-title="Diğer", TLC TV
+https://bstelevision.com/proxy.php?url=https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w693321040.m3u8?hash=444aa5e1053c1f4d54b690363b0ea49b&_t=1774638329
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="Diğer", DMAX
+https://bstelevision.com/proxy.php?url=https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1124101696.m3u8?hash=444aa5e1053c1f4d54b690363b0ea49b&_t=1774638382
 #EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" group-title="Haber", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="HaberTürk" tvg-name="HaberTürk" group-title="Haber", HaberTürk
@@ -17,3 +25,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
 https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" group-title="Haber", 24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" group-title="Haber", Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Haber", NTV
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p5000000kbps/index.m3u8?st=sNYCzYHaeO0XOtyhNaPO0A&e=1774724618
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" group-title="Genel", Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-id="360 TV" tvg-name="360 TV" group-title="Diğer", 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
