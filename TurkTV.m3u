@@ -13,8 +13,6 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?=&sid=8ae5asqvx6j1&app=a20ac4
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" group-title="Haber", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="CNN Türk" tvg-name="CNN Türk" group-title="Haber", CNN Türk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?=&live=true&app=com.cnnturk&st=-ucKs5I8ujp3DmWapvI0DA&e=1774884233
 #EXTINF:-1 tvg-id="HaberTürk" tvg-name="HaberTürk" group-title="Haber", HaberTürk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" group-title="Haber", TGRT Haber
