@@ -6,7 +6,7 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="Xezer TV" tvg-name="Xezer TV" group-title="Ümumi", Xəzər TV
 https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Azad Azerbaycan" tvg-name="Azad Azerbaycan" group-title="Ümumi", ATV
-https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="Space TV" tvg-name="Space TV" group-title="Ümumi", Space TV
 https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ARB" tvg-name="ARB" group-title="Ümumi", ARB
